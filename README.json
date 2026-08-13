@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "按任务选工具"
+    },
+    {
+      "description": "这一节解决按任务导航容易隐藏优质作者的问题。单列不等于作者的所有项目都是当前推荐。",
+      "items": [],
+      "title": "重点作者与系列"
+    },
+    {
+      "description": "所有公开页面均由结构化 registry 生成。使用 检查数据和页面是否一致；使用 更新 GitHub 动态元数据。\n收录不构成质量、安全性或合法性背书。处理合同、证据、个人信息或客户材料前，请自行核验项目的数据流、平台条款和最新许可。",
+      "items": [],
+      "title": "维护与合规"
+    },
+    {
+      "description": "维护者：赖宁 · GitHub Issues",
+      "items": [],
+      "title": "联系与交流"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:32.499Z",
+    "original_repository": "lilialla/awesome-legal-ai-zh",
+    "original_repository_sha": "48bc3786ad59471c22150fd930ac06bbeebde2a2",
+    "enhanced_repository": "enhansome/enhansome-legal-ai-zh",
+    "enhanced_repository_description": null,
+    "title": "awesome-legal-ai-zh · 法律 AI 选型指南 with stars"
+  }
+}
