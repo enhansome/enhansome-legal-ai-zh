@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1129468677,
             "language": "Python",
-            "last_commit": "2026-08-24T14:16:16Z",
+            "last_commit": "2026-08-25T06:07:51Z",
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 600
+            "stars": 603
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 765083837,
             "language": "Python",
-            "last_commit": "2026-08-24T06:49:36Z",
+            "last_commit": "2026-08-25T04:14:37Z",
             "owner": "opendatalab",
             "repo": "MinerU",
-            "stars": 78399
+            "stars": 78426
           }
         },
         {
@@ -387,10 +387,10 @@
             "archived": false,
             "id": 1204004374,
             "language": "Python",
-            "last_commit": "2026-08-24T04:33:42Z",
+            "last_commit": "2026-08-25T04:27:19Z",
             "owner": "handsomestWei",
             "repo": "patent-disclosure-skill",
-            "stars": 5259
+            "stars": 5273
           }
         },
         {
@@ -402,10 +402,10 @@
             "archived": false,
             "id": 1129468677,
             "language": "Python",
-            "last_commit": "2026-08-24T14:16:16Z",
+            "last_commit": "2026-08-25T06:07:51Z",
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 600
+            "stars": 603
           }
         },
         {
@@ -432,7 +432,7 @@
             "archived": false,
             "id": 47451451,
             "language": "Python",
-            "last_commit": "2026-08-24T14:01:34Z",
+            "last_commit": "2026-08-25T05:52:48Z",
             "owner": "opensanctions",
             "repo": "opensanctions",
             "stars": 788
@@ -498,10 +498,10 @@
             "archived": false,
             "id": 1129468677,
             "language": "Python",
-            "last_commit": "2026-08-24T14:16:16Z",
+            "last_commit": "2026-08-25T06:07:51Z",
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 600
+            "stars": 603
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2026-08-16T04:17:26Z",
             "owner": "CSlawyer1985",
             "repo": "claude-for-legal-ZH",
-            "stars": 770
+            "stars": 773
           }
         }
       ],
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:08:41.500Z",
+    "last_updated": "2026-08-25T06:30:07.262Z",
     "original_repository": "lilialla/awesome-legal-ai-zh",
     "original_repository_id": 1262097785,
     "original_repository_sha": "a511df9f4f8ee528525e5f96b6ab49b0582f7183",
