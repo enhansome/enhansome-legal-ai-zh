@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1129468677,
             "language": "Python",
-            "last_commit": "2026-08-25T18:15:16Z",
+            "last_commit": "2026-08-26T12:33:26Z",
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 606
+            "stars": 609
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-13T09:07:16Z",
             "owner": "cat-xierluo",
             "repo": "contract-copilot.skill",
-            "stars": 39
+            "stars": 41
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 765083837,
             "language": "Python",
-            "last_commit": "2026-08-25T14:55:21Z",
+            "last_commit": "2026-08-25T20:03:39Z",
             "owner": "opendatalab",
             "repo": "MinerU",
-            "stars": 78470
+            "stars": 78555
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-10T08:33:57Z",
             "owner": "cncases",
             "repo": "cases",
-            "stars": 1094
+            "stars": 1096
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-07-11T03:30:16Z",
             "owner": "Youchu-lawhub",
             "repo": "cn-litigation-toolkit",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-07-11T03:30:16Z",
             "owner": "Youchu-lawhub",
             "repo": "cn-litigation-toolkit",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -387,10 +387,10 @@
             "archived": false,
             "id": 1204004374,
             "language": "Python",
-            "last_commit": "2026-08-25T04:27:19Z",
+            "last_commit": "2026-08-26T08:34:13Z",
             "owner": "handsomestWei",
             "repo": "patent-disclosure-skill",
-            "stars": 5290
+            "stars": 5316
           }
         },
         {
@@ -402,10 +402,10 @@
             "archived": false,
             "id": 1129468677,
             "language": "Python",
-            "last_commit": "2026-08-25T18:15:16Z",
+            "last_commit": "2026-08-26T12:33:26Z",
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 606
+            "stars": 609
           }
         },
         {
@@ -432,7 +432,7 @@
             "archived": false,
             "id": 47451451,
             "language": "Python",
-            "last_commit": "2026-08-25T11:33:19Z",
+            "last_commit": "2026-08-26T09:47:31Z",
             "owner": "opensanctions",
             "repo": "opensanctions",
             "stars": 788
@@ -447,7 +447,7 @@
             "archived": false,
             "id": 163885848,
             "language": "Go",
-            "last_commit": "2026-08-24T13:25:06Z",
+            "last_commit": "2026-08-26T14:29:12Z",
             "owner": "moov-io",
             "repo": "watchman",
             "stars": 503
@@ -486,7 +486,7 @@
             "last_commit": "2026-07-11T03:30:16Z",
             "owner": "Youchu-lawhub",
             "repo": "cn-litigation-toolkit",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -498,10 +498,10 @@
             "archived": false,
             "id": 1129468677,
             "language": "Python",
-            "last_commit": "2026-08-25T18:15:16Z",
+            "last_commit": "2026-08-26T12:33:26Z",
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 606
+            "stars": 609
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2026-08-16T04:17:26Z",
             "owner": "CSlawyer1985",
             "repo": "claude-for-legal-ZH",
-            "stars": 776
+            "stars": 780
           }
         }
       ],
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:06:47.759Z",
+    "last_updated": "2026-08-26T20:21:24.968Z",
     "original_repository": "lilialla/awesome-legal-ai-zh",
     "original_repository_id": 1262097785,
     "original_repository_sha": "a511df9f4f8ee528525e5f96b6ab49b0582f7183",
