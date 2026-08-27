@@ -15,22 +15,22 @@
             "last_commit": "2026-08-26T12:33:26Z",
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 609
+            "stars": 612
           }
         },
         {
           "node_type": "item",
-          "title": "NEU-ZHA/legal-ai-skills",
-          "description": "：中国法律任务结构完整，已有脚本级 Smoke 证据。pa1nrui1/legal-skills：59 个中文法律 Skill，覆盖破产、刑辩、劳动和文书交付。",
+          "title": "zj-ai-lab/shuanglv-legal-skills",
+          "description": "：更强调执业律师方法、事实证据来源状态、最小能力加载、人工决定与正式交付控制。Hylouis233/mcodeforlegal：适合需要法规现行性核验、引文占位与发送前 citation-audit 的插件式中国法套件。",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 1250895580,
-            "language": "Python",
-            "last_commit": "2026-08-20T04:37:17Z",
-            "owner": "NEU-ZHA",
-            "repo": "legal-ai-skills",
-            "stars": 62
+            "id": 1334848055,
+            "language": null,
+            "last_commit": "2026-08-20T03:07:14Z",
+            "owner": "zj-ai-lab",
+            "repo": "shuanglv-legal-skills",
+            "stars": 6
           }
         },
         {
@@ -51,7 +51,7 @@
         {
           "node_type": "item",
           "title": "nwwfewx/contract-review",
-          "description": "：中国合同审查路线与结构化资料完整，Smoke 通过。Xigua9xi/ai-legal-review-skillkit：适合自行扩展审查规则和测试夹具。",
+          "description": "：中国合同审查路线与结构化资料完整，Smoke 通过。qwertyzhu/openlawkit：适合只添加 Word 原生批注、不修改合同正文，并要求 OOXML 完整性校验的场景。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -66,7 +66,7 @@
         {
           "node_type": "item",
           "title": "Word 法律文书排版",
-          "description": "lilialla/legal-document-format-skill - 直接安装 本地 无特定平台 16 项 测试通过 面向法律 Word 模板执行、内容锁定和格式门禁，67 项测试通过。",
+          "description": "lilialla/legal-document-format-skill - 直接安装 本地 无特定平台 20 项 测试通过 面向法律 Word 模板执行、内容锁定和格式门禁，67 项测试通过。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -81,16 +81,16 @@
         {
           "node_type": "item",
           "title": "案卷 OCR 与 PDF 解析",
-          "description": "opendatalab/MinerU - 需部署 本地 无特定平台 16 项 仓库审阅 复杂 PDF/OCR 生态成熟，适合作为案卷解析底座。",
+          "description": "opendatalab/MinerU - 需部署 本地 无特定平台 20 项 仓库审阅 复杂 PDF/OCR 生态成熟，适合作为案卷解析底座。",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 765083837,
             "language": "Python",
-            "last_commit": "2026-08-25T20:03:39Z",
+            "last_commit": "2026-08-27T10:14:42Z",
             "owner": "opendatalab",
             "repo": "MinerU",
-            "stars": 78555
+            "stars": 78602
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-19T11:40:41Z",
             "owner": "ZongziForu",
             "repo": "cn-law-hub",
-            "stars": 62
+            "stars": 63
           }
         },
         {
@@ -185,6 +185,21 @@
         },
         {
           "node_type": "item",
+          "title": "code-lawyer/AnyDocsMarked",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1345894427,
+            "language": "Python",
+            "last_commit": "2026-08-25T08:55:16Z",
+            "owner": "code-lawyer",
+            "repo": "AnyDocsMarked",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Youchu-lawhub/legal-kb-builder",
           "description": "：工厂化流程覆盖解析、混合检索、API 与 MCP，脚本编译通过，但尚未功能实测。",
           "children": [],
@@ -196,6 +211,21 @@
             "owner": "Youchu-lawhub",
             "repo": "legal-kb-builder",
             "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "律师法律晨报与动态跟踪",
+          "description": "elephantyoung/legal-morning-brief - 直接安装 外部 API 公开 Web 与官方来源 32 项 仓库审阅 区分发布、成文、裁判、公开和生效时间，执行 72 小时回溯与 30 天去重，并把未完成原文核验显式降级。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1334766586,
+            "language": null,
+            "last_commit": "2026-08-15T04:49:29Z",
+            "owner": "elephantyoung",
+            "repo": "legal-morning-brief",
+            "stars": 0
           }
         },
         {
@@ -216,7 +246,7 @@
         {
           "node_type": "item",
           "title": "cat-xierluo/SuitAgent",
-          "description": "：适合需要多角色 Agent 并行分析争点、证据和攻防的用户。yxk-lawyer/litigation-prep-skill-cn：适合公司民商事案件的请求权基础和证据清单。",
+          "description": "：适合需要多角色 Agent 并行分析争点、证据和攻防的用户。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -230,8 +260,23 @@
         },
         {
           "node_type": "item",
-          "title": "Youchu-lawhub/gutachten-civil-case",
-          "description": null,
+          "title": "诉讼图与事实时间轴",
+          "description": "MiaoQichuan/new-litigation-visualization - 需部署 本地 无特定平台 29 项 测试通过 把语义抽取与确定性几何分离，交付 SVG、PNG、PPTX、VSDX、drawio 和溯源索引，并用守卫禁止改写材料原句。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1294942686,
+            "language": "Python",
+            "last_commit": "2026-08-23T06:10:15Z",
+            "owner": "MiaoQichuan",
+            "repo": "new-litigation-visualization",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "民事请求权与鉴定式分析",
+          "description": "Youchu-lawhub/gutachten-civil-case - 直接安装 未明确 无特定平台 29 项 仓库审阅 把德国鉴定式与中国民法典请求权基础检视结合，方法边界清晰。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -241,21 +286,6 @@
             "owner": "Youchu-lawhub",
             "repo": "gutachten-civil-case",
             "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lilialla/request-right-skill-reference",
-          "description": "：适合需要更轻量中国民事请求权分析参考实现的用户。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1244792809,
-            "language": "Python",
-            "last_commit": "2026-06-17T01:46:51Z",
-            "owner": "lilialla",
-            "repo": "request-right-skill-reference",
-            "stars": 12
           }
         },
         {
@@ -276,7 +306,7 @@
         {
           "node_type": "item",
           "title": "Youchu-lawhub/cn-litigation-toolkit",
-          "description": "：需要期限管理与全流程案件工作结合时使用。",
+          "description": "：需要期限管理与全流程案件工作结合时使用。qwertyzhu/openlawkit：适合只依据已核实触发事实和窄规则包计算劳动仲裁、民事执行期限，并保留原文与计算状态。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -300,7 +330,7 @@
             "last_commit": "2026-08-07T05:56:14Z",
             "owner": "duhu2000",
             "repo": "qcc-agent-cli",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -321,7 +351,7 @@
         {
           "node_type": "item",
           "title": "股权转让与公司交易",
-          "description": "lilialla/equity-transfer-review-skill - 直接安装 未明确 无特定平台 21 项 仓库审阅 聚焦中国股权转让、出资责任、监管闸门和交割条件。",
+          "description": "lilialla/equity-transfer-review-skill - 直接安装 未明确 无特定平台 25 项 仓库审阅 聚焦中国股权转让、出资责任、监管闸门和交割条件。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -335,8 +365,23 @@
         },
         {
           "node_type": "item",
+          "title": "政府采购投标与争议救济",
+          "description": "cuplgjln-afk/government-procurement-skills - 直接安装 本地 无特定平台 25 项 Smoke 通过 六个 Skill 覆盖政府采购全生命周期，并以证据页码、诚信红线、期限拒绝估算和独立模拟评审控制关键风险。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1340516839,
+            "language": "Python",
+            "last_commit": "2026-08-20T12:03:43Z",
+            "owner": "cuplgjln-afk",
+            "repo": "government-procurement-skills",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
           "title": "APP 个人信息保护审查",
-          "description": "暂无 Youchu-lawhub/app-compliance-review：方法论和 50+ 检查项有价值，但当前 material_validator.py 存在 SyntaxError，修复前不列当前推荐。allenymt/PrivacySentry：可作为 Android SDK、权限和隐私行为的技术事实提取工具，但不替代法律评价与整改意见。 - - - 18 项 - 法律评价候选的核心脚本有语法错误；技术检测项目只能补充 APK/SDK/权限事实。",
+          "description": "暂无 Youchu-lawhub/app-compliance-review：方法论和 50+ 检查项有价值，但当前 material_validator.py 存在 SyntaxError，修复前不列当前推荐。 - - - 21 项 - 法律评价候选的核心脚本有语法错误；技术检测项目只能补充 APK/SDK/权限事实。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -366,7 +411,7 @@
         {
           "node_type": "item",
           "title": "worker-aid-ai/worker-aid-agent",
-          "description": "：更偏劳动者自助整理材料和申请草稿。wangchangwei/arb-skill：更轻量的劳动仲裁实务 Skill。",
+          "description": "：更偏劳动者自助整理材料和申请草稿。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -380,6 +425,21 @@
         },
         {
           "node_type": "item",
+          "title": "个人维权与小额纠纷",
+          "description": "xyl0729/weiquan-agent - 需部署 本地+联网 可选 DeepSeek、可选阿里云邮件与 OSS 14 项 测试通过 九类消费者和小额纠纷使用人工核验法条、本地规则、引用门禁和 fail-closed 路径，模型不能生成或覆盖法条与 verdict。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1338612571,
+            "language": "Python",
+            "last_commit": "2026-08-19T09:31:40Z",
+            "owner": "xyl0729",
+            "repo": "weiquan-agent",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
           "title": "handsomestWei/patent-disclosure-skill",
           "description": null,
           "children": [],
@@ -387,10 +447,10 @@
             "archived": false,
             "id": 1204004374,
             "language": "Python",
-            "last_commit": "2026-08-26T08:34:13Z",
+            "last_commit": "2026-08-27T08:44:35Z",
             "owner": "handsomestWei",
             "repo": "patent-disclosure-skill",
-            "stars": 5316
+            "stars": 5336
           }
         },
         {
@@ -405,13 +465,13 @@
             "last_commit": "2026-08-26T12:33:26Z",
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 609
+            "stars": 612
           }
         },
         {
           "node_type": "item",
           "title": "域外法律研究",
-          "description": "imchongliu/foreign-law-research - 直接安装 本地+联网 公开网络法源 11 项 仓库审阅 面向中国律师的域外法研究路径，强调公开一手法源。",
+          "description": "imchongliu/foreign-law-research - 直接安装 本地+联网 公开网络法源 14 项 仓库审阅 面向中国律师的域外法研究路径，强调公开一手法源。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -425,6 +485,21 @@
         },
         {
           "node_type": "item",
+          "title": "法律翻译与双语审阅",
+          "description": "Emnllawlab/legal-translation-workflow - 直接安装 本地 无特定平台 14 项 仓库审阅 先处理主体、条件、例外、程序、救济和责任范围，再润色语言；按法系与文种渐进加载风险锚点，不提供脱离语境的固定译法。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1334042989,
+            "language": null,
+            "last_commit": "2026-08-16T08:19:45Z",
+            "owner": "Emnllawlab",
+            "repo": "legal-translation-workflow",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
           "title": "opensanctions/opensanctions",
           "description": null,
           "children": [],
@@ -432,40 +507,40 @@
             "archived": false,
             "id": 47451451,
             "language": "Python",
-            "last_commit": "2026-08-26T09:47:31Z",
+            "last_commit": "2026-08-27T11:33:41Z",
             "owner": "opensanctions",
             "repo": "opensanctions",
-            "stars": 788
+            "stars": 789
           }
         },
         {
           "node_type": "item",
-          "title": "moov-io/watchman",
-          "description": "：更轻量的本地 OFAC/全球制裁筛查引擎，适合自建匹配流程。TracyWang95/DataInftra-CrossBoardTrustedDataPace-SanctionScreening：更偏跨境数据空间与律师工作流，但当前只完成仓库审阅。",
+          "title": "TracyWang95/DataInftra-CrossBoardTrustedDataPace-SanctionScreening",
+          "description": "：更偏跨境数据空间与律师工作流，但当前只完成仓库审阅。",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 163885848,
-            "language": "Go",
-            "last_commit": "2026-08-26T14:29:12Z",
-            "owner": "moov-io",
-            "repo": "watchman",
-            "stars": 503
+            "id": 1186463660,
+            "language": "Python",
+            "last_commit": "2026-03-19T16:51:38Z",
+            "owner": "ttttccxxui",
+            "repo": "DataInftra-CrossBoardTrustedDataPace-SanctionScreening",
+            "stars": 17
           }
         },
         {
           "node_type": "item",
-          "title": "个人律师开庭提醒与卷宗看板",
-          "description": "AzureTsui/GiGi - 需账号/API 本地+联网 外部 LLM 15 项 仓库审阅 本地优先，聚焦个人律师开庭提醒、传票解析和卷宗看板。",
+          "title": "个人律师案件、期限与卷宗工作台",
+          "description": "zj-ai-lab/anqi - 需部署 本地+联网 可选 DeepSeek、可选 Discord、可选 LegalRAG 20 项 仓库审阅 自托管单律师工作台，确定性期限、待办日历、费用分成、案件文件和人工确认式 AI 候选形成完整日常闭环。",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 1297558614,
-            "language": "Rust",
-            "last_commit": "2026-07-19T07:23:51Z",
-            "owner": "AzureTsui",
-            "repo": "GiGi",
-            "stars": 1
+            "id": 1337371619,
+            "language": "JavaScript",
+            "last_commit": "2026-08-26T14:41:18Z",
+            "owner": "zj-ai-lab",
+            "repo": "anqi",
+            "stars": 2
           }
         }
       ],
@@ -501,7 +576,7 @@
             "last_commit": "2026-08-26T12:33:26Z",
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 609
+            "stars": 612
           }
         },
         {
@@ -531,7 +606,7 @@
             "last_commit": "2026-08-16T04:17:26Z",
             "owner": "CSlawyer1985",
             "repo": "claude-for-legal-ZH",
-            "stars": 780
+            "stars": 781
           }
         }
       ],
@@ -539,10 +614,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:21:24.968Z",
-    "original_repository": "lilialla/awesome-legal-ai-zh",
-    "original_repository_id": 1262097785,
-    "original_repository_sha": "a511df9f4f8ee528525e5f96b6ab49b0582f7183",
+    "last_updated": "2026-08-27T11:47:36.272Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1262097785,
+      "language": "Python",
+      "last_commit": "2026-08-27T04:36:07Z",
+      "owner": "lilialla",
+      "repo": "awesome-legal-ai-zh",
+      "stars": 132
+    },
+    "original_repository_sha": "cbb53429f6b4830b509ff92a2204ca6ac4b3810a",
     "enhanced_repository": "enhansome/enhansome-legal-ai-zh",
     "enhanced_repository_description": null,
     "title": "awesome-legal-ai-zh · 法律 AI 选型指南 with stars"
