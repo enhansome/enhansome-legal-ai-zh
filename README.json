@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1129468677,
             "language": "Python",
-            "last_commit": "2026-08-26T12:33:26Z",
+            "last_commit": "2026-08-28T02:01:51Z",
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 612
+            "stars": 613
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-27T10:14:42Z",
             "owner": "opendatalab",
             "repo": "MinerU",
-            "stars": 78602
+            "stars": 78635
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-03-29T14:58:14Z",
             "owner": "moyupeng0422",
             "repo": "legal-doc-redactor",
-            "stars": 114
+            "stars": 115
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-07-11T00:21:52Z",
             "owner": "Youchu-lawhub",
             "repo": "legal-kb-builder",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-07-11T03:30:16Z",
             "owner": "Youchu-lawhub",
             "repo": "cn-litigation-toolkit",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2026-07-11T03:30:16Z",
             "owner": "Youchu-lawhub",
             "repo": "cn-litigation-toolkit",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -447,10 +447,10 @@
             "archived": false,
             "id": 1204004374,
             "language": "Python",
-            "last_commit": "2026-08-27T08:44:35Z",
+            "last_commit": "2026-08-28T01:12:06Z",
             "owner": "handsomestWei",
             "repo": "patent-disclosure-skill",
-            "stars": 5336
+            "stars": 5344
           }
         },
         {
@@ -462,10 +462,10 @@
             "archived": false,
             "id": 1129468677,
             "language": "Python",
-            "last_commit": "2026-08-26T12:33:26Z",
+            "last_commit": "2026-08-28T02:01:51Z",
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 612
+            "stars": 613
           }
         },
         {
@@ -507,7 +507,7 @@
             "archived": false,
             "id": 47451451,
             "language": "Python",
-            "last_commit": "2026-08-27T11:33:41Z",
+            "last_commit": "2026-08-27T20:55:48Z",
             "owner": "opensanctions",
             "repo": "opensanctions",
             "stars": 789
@@ -561,7 +561,7 @@
             "last_commit": "2026-07-11T03:30:16Z",
             "owner": "Youchu-lawhub",
             "repo": "cn-litigation-toolkit",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -573,10 +573,10 @@
             "archived": false,
             "id": 1129468677,
             "language": "Python",
-            "last_commit": "2026-08-26T12:33:26Z",
+            "last_commit": "2026-08-28T02:01:51Z",
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 612
+            "stars": 613
           }
         },
         {
@@ -606,7 +606,7 @@
             "last_commit": "2026-08-16T04:17:26Z",
             "owner": "CSlawyer1985",
             "repo": "claude-for-legal-ZH",
-            "stars": 781
+            "stars": 783
           }
         }
       ],
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:47:36.272Z",
+    "last_updated": "2026-08-28T02:13:45.318Z",
     "original_repository_info": {
       "archived": false,
       "id": 1262097785,
@@ -622,7 +622,7 @@
       "last_commit": "2026-08-27T04:36:07Z",
       "owner": "lilialla",
       "repo": "awesome-legal-ai-zh",
-      "stars": 132
+      "stars": 133
     },
     "original_repository_sha": "cbb53429f6b4830b509ff92a2204ca6ac4b3810a",
     "enhanced_repository": "enhansome/enhansome-legal-ai-zh",
