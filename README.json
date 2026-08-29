@@ -12,11 +12,12 @@
             "archived": false,
             "id": 1129468677,
             "language": "Python",
-            "last_commit": "2026-08-28T02:01:51Z",
+            "last_commit": "2026-08-28T15:20:53Z",
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 613
-          }
+            "stars": 614
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "zj-ai-lab",
             "repo": "shuanglv-legal-skills",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-06-13T09:07:16Z",
             "owner": "cat-xierluo",
             "repo": "contract-copilot.skill",
-            "stars": 41
-          }
+            "stars": 42
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "nwwfewx",
             "repo": "contract-review",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "lilialla",
             "repo": "legal-document-format-skill",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 765083837,
             "language": "Python",
-            "last_commit": "2026-08-27T10:14:42Z",
+            "last_commit": "2026-08-28T03:25:02Z",
             "owner": "opendatalab",
             "repo": "MinerU",
-            "stars": 78635
-          }
+            "stars": 78695
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "moyupeng0422",
             "repo": "legal-doc-redactor",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "ttttccxxui",
             "repo": "DataInfra-RedactionEverything",
             "stars": 1146
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "nh59yytyd5-dev",
             "repo": "chinalaw-cli",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -150,8 +159,9 @@
             "last_commit": "2026-08-19T11:40:41Z",
             "owner": "ZongziForu",
             "repo": "cn-law-hub",
-            "stars": 63
-          }
+            "stars": 64
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "245678000000",
             "repo": "caselaw-mcp-server",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -180,8 +191,9 @@
             "last_commit": "2026-08-10T08:33:57Z",
             "owner": "cncases",
             "repo": "cases",
-            "stars": 1096
-          }
+            "stars": 1097
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "code-lawyer",
             "repo": "AnyDocsMarked",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "Youchu-lawhub",
             "repo": "legal-kb-builder",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "elephantyoung",
             "repo": "legal-morning-brief",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "Youchu-lawhub",
             "repo": "cn-litigation-toolkit",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "cat-xierluo",
             "repo": "SuitAgent",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -270,8 +287,9 @@
             "last_commit": "2026-08-23T06:10:15Z",
             "owner": "MiaoQichuan",
             "repo": "new-litigation-visualization",
-            "stars": 48
-          }
+            "stars": 49
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "Youchu-lawhub",
             "repo": "gutachten-civil-case",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "SimbaCD",
             "repo": "legal-period-manager-skills",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "Youchu-lawhub",
             "repo": "cn-litigation-toolkit",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "duhu2000",
             "repo": "qcc-agent-cli",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "zhanglunet",
             "repo": "qcc",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "lilialla",
             "repo": "equity-transfer-review-skill",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "cuplgjln-afk",
             "repo": "government-procurement-skills",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "Youchu-lawhub",
             "repo": "app-compliance-review",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -406,7 +432,8 @@
             "owner": "f12336414-ship-it",
             "repo": "labor-arbitration-skill",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -421,7 +448,8 @@
             "owner": "worker-aid-ai",
             "repo": "worker-aid-agent",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -432,11 +460,12 @@
             "archived": false,
             "id": 1338612571,
             "language": "Python",
-            "last_commit": "2026-08-19T09:31:40Z",
+            "last_commit": "2026-08-28T07:18:16Z",
             "owner": "xyl0729",
             "repo": "weiquan-agent",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -447,11 +476,12 @@
             "archived": false,
             "id": 1204004374,
             "language": "Python",
-            "last_commit": "2026-08-28T01:12:06Z",
+            "last_commit": "2026-08-28T15:44:47Z",
             "owner": "handsomestWei",
             "repo": "patent-disclosure-skill",
-            "stars": 5344
-          }
+            "stars": 5414
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -462,11 +492,12 @@
             "archived": false,
             "id": 1129468677,
             "language": "Python",
-            "last_commit": "2026-08-28T02:01:51Z",
+            "last_commit": "2026-08-28T15:20:53Z",
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 613
-          }
+            "stars": 614
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -481,7 +512,8 @@
             "owner": "imchongliu",
             "repo": "foreign-law-research",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -496,7 +528,8 @@
             "owner": "Emnllawlab",
             "repo": "legal-translation-workflow",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -507,11 +540,12 @@
             "archived": false,
             "id": 47451451,
             "language": "Python",
-            "last_commit": "2026-08-27T20:55:48Z",
+            "last_commit": "2026-08-28T16:26:46Z",
             "owner": "opensanctions",
             "repo": "opensanctions",
-            "stars": 789
-          }
+            "stars": 790
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -526,7 +560,8 @@
             "owner": "ttttccxxui",
             "repo": "DataInftra-CrossBoardTrustedDataPace-SanctionScreening",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -541,7 +576,8 @@
             "owner": "zj-ai-lab",
             "repo": "anqi",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         }
       ],
       "title": "按任务选工具"
@@ -562,7 +598,8 @@
             "owner": "Youchu-lawhub",
             "repo": "cn-litigation-toolkit",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -573,11 +610,12 @@
             "archived": false,
             "id": 1129468677,
             "language": "Python",
-            "last_commit": "2026-08-28T02:01:51Z",
+            "last_commit": "2026-08-28T15:20:53Z",
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 613
-          }
+            "stars": 614
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -592,7 +630,8 @@
             "owner": "ttttccxxui",
             "repo": "DataInfra-RedactionEverything",
             "stars": 1146
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         },
         {
           "node_type": "item",
@@ -607,14 +646,15 @@
             "owner": "CSlawyer1985",
             "repo": "claude-for-legal-ZH",
             "stars": 783
-          }
+          },
+          "first_seen": "2026-08-29T01:49:03.285Z"
         }
       ],
       "title": "重点作者与系列"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:13:45.318Z",
+    "last_updated": "2026-08-29T01:49:03.285Z",
     "original_repository_info": {
       "archived": false,
       "id": 1262097785,
