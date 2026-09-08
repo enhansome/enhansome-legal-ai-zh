@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 658,
+            "stars": 661,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -159,11 +159,11 @@
             "id": 765083837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T14:28:08Z",
-            "open_issues": 106,
+            "last_commit": "2026-09-08T18:54:37Z",
+            "open_issues": 107,
             "owner": "opendatalab",
             "repo": "MinerU",
-            "stars": 79403,
+            "stars": 79487,
             "topics": [
               "ai4science",
               "document-analysis",
@@ -201,7 +201,7 @@
             "open_issues": 3,
             "owner": "moyupeng0422",
             "repo": "legal-doc-redactor",
-            "stars": 118,
+            "stars": 119,
             "topics": [
               "chinese",
               "data-anonymization",
@@ -230,7 +230,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-02T06:11:28Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ttttccxxui",
             "repo": "DataInfra-RedactionEverything",
             "stars": 1148,
@@ -275,7 +275,7 @@
             "open_issues": 0,
             "owner": "ZongziForu",
             "repo": "cn-law-hub",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "agent-skills",
               "china-law",
@@ -329,7 +329,7 @@
             "open_issues": 12,
             "owner": "cncases",
             "repo": "cases",
-            "stars": 1104,
+            "stars": 1105,
             "topics": [
               "wenshu"
             ]
@@ -479,7 +479,7 @@
             "open_issues": 0,
             "owner": "MiaoQichuan",
             "repo": "new-litigation-visualization",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -516,7 +516,7 @@
             "open_issues": 0,
             "owner": "Youchu-lawhub",
             "repo": "gutachten-civil-case",
-            "stars": 72,
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -590,7 +590,7 @@
             "open_issues": 0,
             "owner": "duhu2000",
             "repo": "qcc-agent-cli",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -794,11 +794,11 @@
             "id": 1204004374,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T09:43:55Z",
+            "last_commit": "2026-09-08T08:23:27Z",
             "open_issues": 8,
             "owner": "handsomestWei",
             "repo": "patent-disclosure-skill",
-            "stars": 8403,
+            "stars": 8773,
             "topics": [
               "chinese",
               "disclosure",
@@ -825,7 +825,7 @@
             "open_issues": 0,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 658,
+            "stars": 661,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -926,8 +926,8 @@
             "id": 47451451,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T16:02:03Z",
-            "open_issues": 107,
+            "last_commit": "2026-09-08T17:15:13Z",
+            "open_issues": 108,
             "owner": "opensanctions",
             "repo": "opensanctions",
             "stars": 797,
@@ -1050,7 +1050,7 @@
             "open_issues": 0,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 658,
+            "stars": 661,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -1068,7 +1068,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-02T06:11:28Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ttttccxxui",
             "repo": "DataInfra-RedactionEverything",
             "stars": 1148,
@@ -1089,10 +1089,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-16T04:17:26Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "CSlawyer1985",
             "repo": "claude-for-legal-ZH",
-            "stars": 804,
+            "stars": 806,
             "topics": [
               "ai-governance",
               "china-law",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T21:38:00.920Z",
+    "last_updated": "2026-09-08T21:17:05.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 给中国律师/法务的一站式开源 AI 工具地图｜200+ 个 gh 核验开源仓·按工作场景分类·能否商用标注｜awesome list",
