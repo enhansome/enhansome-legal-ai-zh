@@ -15,11 +15,11 @@
             "id": 1129468677,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-14T17:02:54Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-15T13:03:22Z",
+            "open_issues": 4,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 674,
+            "stars": 677,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -159,11 +159,11 @@
             "id": 765083837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T22:13:27Z",
-            "open_issues": 112,
+            "last_commit": "2026-09-15T07:03:02Z",
+            "open_issues": 113,
             "owner": "opendatalab",
             "repo": "MinerU",
-            "stars": 79906,
+            "stars": 79981,
             "topics": [
               "ai4science",
               "document-analysis",
@@ -201,7 +201,7 @@
             "open_issues": 3,
             "owner": "moyupeng0422",
             "repo": "legal-doc-redactor",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "chinese",
               "data-anonymization",
@@ -458,7 +458,7 @@
             "open_issues": 0,
             "owner": "cat-xierluo",
             "repo": "SuitAgent",
-            "stars": 204,
+            "stars": 205,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -794,11 +794,11 @@
             "id": 1204004374,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T03:59:07Z",
+            "last_commit": "2026-09-15T10:19:58Z",
             "open_issues": 10,
             "owner": "handsomestWei",
             "repo": "patent-disclosure-skill",
-            "stars": 9487,
+            "stars": 9585,
             "topics": [
               "chinese",
               "disclosure",
@@ -821,11 +821,11 @@
             "id": 1129468677,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-14T17:02:54Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-15T13:03:22Z",
+            "open_issues": 4,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 674,
+            "stars": 677,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -926,8 +926,8 @@
             "id": 47451451,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T16:51:42Z",
-            "open_issues": 101,
+            "last_commit": "2026-09-15T19:45:02Z",
+            "open_issues": 102,
             "owner": "opensanctions",
             "repo": "opensanctions",
             "stars": 802,
@@ -1046,11 +1046,11 @@
             "id": 1129468677,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-14T17:02:54Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-15T13:03:22Z",
+            "open_issues": 4,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 674,
+            "stars": 677,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -1092,7 +1092,7 @@
             "open_issues": 2,
             "owner": "CSlawyer1985",
             "repo": "claude-for-legal-ZH",
-            "stars": 819,
+            "stars": 822,
             "topics": [
               "ai-governance",
               "china-law",
@@ -1123,7 +1123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T21:55:51.066Z",
+    "last_updated": "2026-09-15T21:33:15.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 给中国律师/法务的一站式开源 AI 工具地图｜200+ 个 gh 核验开源仓·按工作场景分类·能否商用标注｜awesome list",
@@ -1135,7 +1135,7 @@
       "open_issues": 0,
       "owner": "lilialla",
       "repo": "awesome-legal-ai-zh",
-      "stars": 150,
+      "stars": 151,
       "topics": [
         "awesome",
         "awesome-list",
