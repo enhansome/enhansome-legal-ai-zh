@@ -15,11 +15,11 @@
             "id": 1129468677,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-18T15:55:55Z",
+            "last_commit": "2026-10-19T04:40:29Z",
             "open_issues": 4,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 744,
+            "stars": 741,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -159,11 +159,11 @@
             "id": 765083837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-17T15:18:55Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-19T08:41:22Z",
+            "open_issues": 13,
             "owner": "opendatalab",
             "repo": "MinerU",
-            "stars": 81982,
+            "stars": 82063,
             "topics": [
               "ai4science",
               "document-analysis",
@@ -329,7 +329,7 @@
             "open_issues": 12,
             "owner": "cncases",
             "repo": "cases",
-            "stars": 1135,
+            "stars": 1136,
             "topics": [
               "wenshu"
             ]
@@ -373,7 +373,7 @@
             "open_issues": 0,
             "owner": "Youchu-lawhub",
             "repo": "legal-kb-builder",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "chinese-law",
               "document-parsing",
@@ -426,7 +426,7 @@
             "open_issues": 1,
             "owner": "Youchu-lawhub",
             "repo": "cn-litigation-toolkit",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "agent-skills",
               "chinese-law",
@@ -819,11 +819,11 @@
             "id": 1204004374,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-18T03:59:15Z",
+            "last_commit": "2026-10-19T03:59:56Z",
             "open_issues": 16,
             "owner": "handsomestWei",
             "repo": "patent-disclosure-skill",
-            "stars": 11832,
+            "stars": 11923,
             "topics": [
               "chinese",
               "disclosure",
@@ -846,11 +846,11 @@
             "id": 1129468677,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-18T15:55:55Z",
+            "last_commit": "2026-10-19T04:40:29Z",
             "open_issues": 4,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 744,
+            "stars": 741,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -985,8 +985,8 @@
             "id": 47451451,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-18T00:36:13Z",
-            "open_issues": 118,
+            "last_commit": "2026-10-19T19:38:08Z",
+            "open_issues": 114,
             "owner": "opensanctions",
             "repo": "opensanctions",
             "stars": 847,
@@ -1077,7 +1077,7 @@
             "open_issues": 1,
             "owner": "Youchu-lawhub",
             "repo": "cn-litigation-toolkit",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "agent-skills",
               "chinese-law",
@@ -1105,11 +1105,11 @@
             "id": 1129468677,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-18T15:55:55Z",
+            "last_commit": "2026-10-19T04:40:29Z",
             "open_issues": 4,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 744,
+            "stars": 741,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -1182,7 +1182,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T20:55:35.962Z",
+    "last_updated": "2026-10-19T22:30:57.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 给中国律师/法务的一站式开源 AI 工具地图｜200+ 个 gh 核验开源仓·按工作场景分类·能否商用标注｜awesome list",
