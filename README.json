@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 796,
+            "stars": 800,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -159,11 +159,11 @@
             "id": 765083837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T07:55:42Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-13T14:03:28Z",
+            "open_issues": 10,
             "owner": "opendatalab",
             "repo": "MinerU",
-            "stars": 83573,
+            "stars": 83636,
             "topics": [
               "ai4science",
               "document-analysis",
@@ -201,7 +201,7 @@
             "open_issues": 4,
             "owner": "moyupeng0422",
             "repo": "legal-doc-redactor",
-            "stars": 138,
+            "stars": 139,
             "topics": [
               "chinese",
               "data-anonymization",
@@ -233,7 +233,7 @@
             "open_issues": 2,
             "owner": "ttttccxxui",
             "repo": "DataInfra-RedactionEverything",
-            "stars": 1133,
+            "stars": 1134,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -479,7 +479,7 @@
             "open_issues": 1,
             "owner": "MiaoQichuan",
             "repo": "new-litigation-visualization",
-            "stars": 160,
+            "stars": 162,
             "topics": [
               "agent-skills",
               "chronicle",
@@ -822,11 +822,11 @@
             "id": 1204004374,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-12T03:59:17Z",
+            "last_commit": "2026-11-13T03:59:26Z",
             "open_issues": 19,
             "owner": "handsomestWei",
             "repo": "patent-disclosure-skill",
-            "stars": 13376,
+            "stars": 13422,
             "topics": [
               "chinese",
               "disclosure",
@@ -853,7 +853,7 @@
             "open_issues": 1,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 796,
+            "stars": 800,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -988,11 +988,11 @@
             "id": 47451451,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-12T20:31:00Z",
-            "open_issues": 147,
+            "last_commit": "2026-11-13T21:22:14Z",
+            "open_issues": 143,
             "owner": "opensanctions",
             "repo": "opensanctions",
-            "stars": 875,
+            "stars": 877,
             "topics": [
               "due-diligence",
               "investigations",
@@ -1038,8 +1038,8 @@
             "id": 1337371619,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-12T22:50:53Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-13T13:46:16Z",
+            "open_issues": 5,
             "owner": "zj-ai-lab",
             "repo": "anqi",
             "stars": 7,
@@ -1112,7 +1112,7 @@
             "open_issues": 1,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 796,
+            "stars": 800,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -1133,7 +1133,7 @@
             "open_issues": 2,
             "owner": "ttttccxxui",
             "repo": "DataInfra-RedactionEverything",
-            "stars": 1133,
+            "stars": 1134,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -1185,7 +1185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T23:43:32.076Z",
+    "last_updated": "2026-11-13T23:44:47.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 给中国律师/法务的一站式开源 AI 工具地图｜200+ 个 gh 核验开源仓·按工作场景分类·能否商用标注｜awesome list",
@@ -1197,7 +1197,7 @@
       "open_issues": 1,
       "owner": "lilialla",
       "repo": "awesome-legal-ai-zh",
-      "stars": 183,
+      "stars": 184,
       "topics": [
         "awesome",
         "awesome-list",
