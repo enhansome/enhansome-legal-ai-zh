@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 823,
+            "stars": 827,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -159,11 +159,11 @@
             "id": 765083837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T11:19:14Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-22T18:08:38Z",
+            "open_issues": 15,
             "owner": "opendatalab",
             "repo": "MinerU",
-            "stars": 84101,
+            "stars": 84148,
             "topics": [
               "ai4science",
               "document-analysis",
@@ -426,7 +426,7 @@
             "open_issues": 1,
             "owner": "Youchu-lawhub",
             "repo": "cn-litigation-toolkit",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "agent-skills",
               "chinese-law",
@@ -479,7 +479,7 @@
             "open_issues": 1,
             "owner": "MiaoQichuan",
             "repo": "new-litigation-visualization",
-            "stars": 171,
+            "stars": 172,
             "topics": [
               "agent-skills",
               "chronicle",
@@ -822,11 +822,11 @@
             "id": 1204004374,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-21T03:59:14Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-22T08:58:17Z",
+            "open_issues": 19,
             "owner": "handsomestWei",
             "repo": "patent-disclosure-skill",
-            "stars": 13714,
+            "stars": 13736,
             "topics": [
               "chinese",
               "disclosure",
@@ -853,7 +853,7 @@
             "open_issues": 2,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 823,
+            "stars": 827,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -988,11 +988,11 @@
             "id": 47451451,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-21T23:20:58Z",
-            "open_issues": 135,
+            "last_commit": "2026-11-22T13:56:30Z",
+            "open_issues": 133,
             "owner": "opensanctions",
             "repo": "opensanctions",
-            "stars": 880,
+            "stars": 881,
             "topics": [
               "due-diligence",
               "investigations",
@@ -1080,7 +1080,7 @@
             "open_issues": 1,
             "owner": "Youchu-lawhub",
             "repo": "cn-litigation-toolkit",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "agent-skills",
               "chinese-law",
@@ -1112,7 +1112,7 @@
             "open_issues": 2,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 823,
+            "stars": 827,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -1185,7 +1185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T23:30:07.453Z",
+    "last_updated": "2026-11-22T23:41:31.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 给中国律师/法务的一站式开源 AI 工具地图｜200+ 个 gh 核验开源仓·按工作场景分类·能否商用标注｜awesome list",
@@ -1197,7 +1197,7 @@
       "open_issues": 1,
       "owner": "lilialla",
       "repo": "awesome-legal-ai-zh",
-      "stars": 187,
+      "stars": 188,
       "topics": [
         "awesome",
         "awesome-list",
