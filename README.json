@@ -15,11 +15,11 @@
             "id": 1129468677,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-24T03:34:28Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-25T23:30:58Z",
+            "open_issues": 5,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 831,
+            "stars": 833,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -163,7 +163,7 @@
             "open_issues": 21,
             "owner": "opendatalab",
             "repo": "MinerU",
-            "stars": 84294,
+            "stars": 84336,
             "topics": [
               "ai4science",
               "document-analysis",
@@ -254,7 +254,7 @@
             "open_issues": 8,
             "owner": "nh59yytyd5-dev",
             "repo": "chinalaw-cli",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -275,7 +275,7 @@
             "open_issues": 0,
             "owner": "ZongziForu",
             "repo": "cn-law-hub",
-            "stars": 99,
+            "stars": 100,
             "topics": [
               "agent-skills",
               "china-law",
@@ -329,7 +329,7 @@
             "open_issues": 7,
             "owner": "cncases",
             "repo": "cases",
-            "stars": 1214,
+            "stars": 1241,
             "topics": [
               "wenshu"
             ]
@@ -426,7 +426,7 @@
             "open_issues": 1,
             "owner": "Youchu-lawhub",
             "repo": "cn-litigation-toolkit",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "agent-skills",
               "chinese-law",
@@ -479,7 +479,7 @@
             "open_issues": 1,
             "owner": "MiaoQichuan",
             "repo": "new-litigation-visualization",
-            "stars": 173,
+            "stars": 174,
             "topics": [
               "agent-skills",
               "chronicle",
@@ -822,11 +822,11 @@
             "id": 1204004374,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-24T03:59:16Z",
+            "last_commit": "2026-11-25T03:59:27Z",
             "open_issues": 20,
             "owner": "handsomestWei",
             "repo": "patent-disclosure-skill",
-            "stars": 13825,
+            "stars": 13848,
             "topics": [
               "chinese",
               "disclosure",
@@ -849,11 +849,11 @@
             "id": 1129468677,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-24T03:34:28Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-25T23:30:58Z",
+            "open_issues": 5,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 831,
+            "stars": 833,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -878,40 +878,6 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
-        },
-        {
-          "node_type": "item",
-          "title": "bellaaaaxu/canada-law",
-          "description": "：适合需要 BC 省及加拿大联邦劳动法官方现行文本、中文术语映射和可运行 MCP 的用户。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Ask your AI assistant about BC employment law, answered from the current official text with citations. Agent Skill + MCP server, English and Chinese.",
-            "homepage": null,
-            "id": 1390097501,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-29T09:20:14Z",
-            "open_issues": 0,
-            "owner": "bellaaaaxu",
-            "repo": "canada-law",
-            "stars": 0,
-            "topics": [
-              "agent-skills",
-              "british-columbia",
-              "canada",
-              "chinese",
-              "claude",
-              "claude-desktop",
-              "employment-law",
-              "labour-law",
-              "legal-tech",
-              "mcp",
-              "mcp-server",
-              "model-context-protocol"
-            ]
-          },
-          "first_seen": "2026-10-04T21:42:13.986Z"
         },
         {
           "node_type": "item",
@@ -988,8 +954,8 @@
             "id": 47451451,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-24T17:45:41Z",
-            "open_issues": 136,
+            "last_commit": "2026-11-25T15:39:20Z",
+            "open_issues": 137,
             "owner": "opensanctions",
             "repo": "opensanctions",
             "stars": 884,
@@ -1080,7 +1046,7 @@
             "open_issues": 1,
             "owner": "Youchu-lawhub",
             "repo": "cn-litigation-toolkit",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "agent-skills",
               "chinese-law",
@@ -1108,11 +1074,11 @@
             "id": 1129468677,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-24T03:34:28Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-25T23:30:58Z",
+            "open_issues": 5,
             "owner": "cat-xierluo",
             "repo": "legal-skills",
-            "stars": 831,
+            "stars": 833,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:03.285Z"
@@ -1154,7 +1120,7 @@
             "open_issues": 2,
             "owner": "CSlawyer1985",
             "repo": "claude-for-legal-ZH",
-            "stars": 951,
+            "stars": 953,
             "topics": [
               "ai-governance",
               "china-law",
@@ -1185,7 +1151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T02:39:42.456Z",
+    "last_updated": "2026-11-26T01:52:37.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 给中国律师/法务的一站式开源 AI 工具地图｜200+ 个 gh 核验开源仓·按工作场景分类·能否商用标注｜awesome list",
@@ -1197,7 +1163,7 @@
       "open_issues": 1,
       "owner": "lilialla",
       "repo": "awesome-legal-ai-zh",
-      "stars": 189,
+      "stars": 190,
       "topics": [
         "awesome",
         "awesome-list",
